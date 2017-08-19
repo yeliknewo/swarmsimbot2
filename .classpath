@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SeleniumCore"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Utilities"/>
+	<classpathentry kind="lib" path="/SwarmSimBot/org.eclipse.jdt.annotation_2.1.0.v20160418-1457.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiley Owen/Desktop/Libraries/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
